@@ -11,3 +11,4 @@ services:
       - ./home/jonilson/:/home/jonilson/
     ports:
       - 8080:80
+      - 8077:8077
