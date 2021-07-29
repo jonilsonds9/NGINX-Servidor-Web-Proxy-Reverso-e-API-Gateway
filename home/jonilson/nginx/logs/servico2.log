@@ -1,0 +1,2 @@
+Remote Addr: 172.22.0.1, Time: [29/Jul/2021:21:01:31 +0000], Request: "GET / HTTP/1.0", Status: 304 
+Remote Addr: 172.22.0.1, Time: [29/Jul/2021:21:01:33 +0000], Request: "GET / HTTP/1.0", Status: 304 
